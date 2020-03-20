@@ -11,3 +11,7 @@ Sample website with plenty of files for demos
 Bam bam
 
 ## How To Contribute
+
+##Copy
+
+Da da frate
